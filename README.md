@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiwiRJ
+- 👋 Hi, I’m @RanJan
 - 👀 I’m interested in information security and cloud security in perticular. 
 - 🌱 I’m currently learning offensive security
 - 💞️ I’m looking to collaborate on anything really.

@@ -2,7 +2,7 @@
 - 👀 I’m interested in information security and cloud security in perticular. 
 - 🌱 I’m currently learning offensive security
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me jeyathas@gmail.com
+
 
 <!---
 KiwiRJ/KiwiRJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
